@@ -49,17 +49,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsharma9992&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsharma9992&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
