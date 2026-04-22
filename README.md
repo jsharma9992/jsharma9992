@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jatin Sharma</h1>
+<h3 align="center">🚀 Final-Year Computer Engineering Student | Frontend & UI/UX Enthusiast</h3>
 
-<!--
-**jsharma9992/jsharma9992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jsharma9992&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me
+
+- 🎓 Final-year Computer Engineering student at **Thapar Institute of Engineering & Technology**
+- 💻 Passionate about **Frontend Development & UI/UX Design**
+- ⚡ Love building **interactive, user-friendly applications**
+- 🔥 Exploring **Full Stack (Next.js + Firebase)**
+- 📈 Also interested in **Marketing & Product Thinking**
+
+---
+
+## 🧠 What I’m Working On
+
+- 👨‍💻 Smart solutions for **visually impaired users (AI + Vision)**
+- 🎨 Improving UI/UX skills with real-world projects
+- ⚙️ Scaling projects with **Next.js & backend integration**
+
+---
+
+## 🌱 Currently Learning
+
+- ⚛️ Advanced **React & Next.js**
+- 🎯 UI/UX Design Principles & User Psychology
+- ☁️ Firebase & Backend Optimization
+
+---
+
+## 🤝 Looking to Collaborate On
+
+- 🚀 Frontend Projects (React / Next.js)
+- 🎨 UI/UX case studies & design systems
+- 💡 Innovative real-world problem solving ideas
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,firebase,figma,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jsharma9992&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsharma9992&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/jatin-sharma1s">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:intmain9992@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💡 I enjoy blending **technology + creativity + marketing** to build products people actually love.
+
+---
+
+⭐ *"Building things that matter, not just things that work."*
